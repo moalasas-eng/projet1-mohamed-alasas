@@ -196,7 +196,7 @@ input{
 .fully{
     width: 28%;
     height: 300px;
-    border: 1px solid blue;
+    border: 1px solid #050E3C;
     border-radius: 20px;
     background-color: #9b9bdb;
     float: left;
@@ -291,7 +291,7 @@ input{
 .works-caeds{
   width: 31%;
   height: 90%;
-  border: 1px solid black;
+  border: 1px solid #050E3C;
   float: left;
   position: relative;
   /* top: 35px; */
@@ -438,7 +438,7 @@ color: #f3e7dc;
 .offer-card6{
   width: 30%;
   height: 80%;
-  border: 1px solid black;
+  border: 1px solid #050E3C;
   border-radius: 10px;
   background-color:#9b9bdb;
   float: left;
@@ -603,7 +603,7 @@ color: #f3e7dc;
 .why-photo{
   width: 90%;
   height: 90%;
-  border: 1px solid green; 
+  border: 10px solid #050E3C;
   margin-top: 17%;
   background-image: url(../imges/14.jpeg);
   background-size: cover;
@@ -732,7 +732,7 @@ color: #f3e7dc;
 .pricing-card{
   width: 30%;
   height: 100%;
-  border: 1px solid rgb(0, 0, 0);
+  border: 1px solid #050E3C;
   border-radius: 15px;
   background-color: #9b9bdb;
   float: left;
@@ -752,7 +752,7 @@ color: #f3e7dc;
 .circle-pric{
   width: 150px;
   height: 150px;
-  border: 1px solid #e8eaeb;
+  border: 1px solid #050E3C;
   border-radius: 50%;
   margin: 0 111;
 }
@@ -901,7 +901,7 @@ color: #f3e7dc;
 .team-contener-card{
   width: 30%;
   height: 75%;
-  border: 1px solid rgb(84, 32, 206);
+  border: 1px solid #050E3C;
   background-color:#9b9bdb;
   border-radius: 15px;
   float: left;
@@ -909,7 +909,7 @@ color: #f3e7dc;
 .team-card1{
   width: 80%;
   height: 65%;
-  border: 1px solid rgb(58, 55, 214);
+  /* border: 1px solid #050E3C; */
   background-size: cover;
   margin:25px auto;
   position: relative;
@@ -917,7 +917,7 @@ color: #f3e7dc;
 .team-card2{
   width: 80%;
   height: 65%;
-  border: 1px solid  rgb(58, 55, 214);
+  /* border: 1px solid  #050E3C; */
   background-size: cover;
   margin:25px auto;
   position: relative;
@@ -926,7 +926,7 @@ color: #f3e7dc;
 .team-card3{
   width: 80%;
   height: 65%;
-  border: 1px solid  rgb(58, 55, 214);
+  /* border: 1px solid  #050E3C; */
   background-size: cover;
   margin: 25px auto;
   position: relative;
@@ -1052,7 +1052,7 @@ font-size: 23px;
 .news-card{
   width: 30%;
   height: 90%;
-  border: 1px solid rgb(12, 16, 240);
+  border: 1px solid #050E3C;
   background-color:#9b9bdb;
   border-radius: 12px;
   text-align: center;
@@ -1064,7 +1064,7 @@ font-size: 23px;
 .news-imgs1{
   width: 80%;
   height: 300px;
-  border: 1px solid rgb(12, 16, 240);
+  border: 1px solid #050E3C;
   background-image: url(../imges/task\ 9.8088.jpg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -1085,7 +1085,7 @@ font-size: 23px;
 .news-imgs3{
   width: 80%;
   height: 300px;
-  border: 1px solid rgb(12, 16, 240);
+  border: 1px solid #050E3C;
   background-image: url(../imges/task\ 9.880888.jpg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -1160,7 +1160,7 @@ font-size: 23px;
 .copr-img{
   width: 350px;
   height: 300px;
-  border: 1px solid black;
+  border: 1px solid #050E3C;
   border-radius: 15px;
 margin: 0 auto;
   }
@@ -1174,6 +1174,7 @@ margin: 0 auto;
     background-color:rgba(0, 0, 255 ,.5);
     width: 75px;
     height: 75px;
+    border: 1px solid #050E3C;
     border-radius: 50%;
     text-align: center;
     margin: 25 10;
