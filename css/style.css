@@ -909,7 +909,9 @@ color: #f3e7dc;
 .team-card1{
   width: 80%;
   height: 65%;
-  /* border: 1px solid #050E3C; */
+  background-color:#9b9bdb;
+  border: 1px solid #050E3C;
+  background-image: url(../imges/task\ 9.8.jpg);
   background-size: cover;
   margin:25px auto;
   position: relative;
@@ -917,7 +919,9 @@ color: #f3e7dc;
 .team-card2{
   width: 80%;
   height: 65%;
-  /* border: 1px solid  #050E3C; */
+  background-color:#9b9bdb;
+  border: 1px solid  #050E3C;
+  background-image: url(../imges/task\ 9.88.jpg);
   background-size: cover;
   margin:25px auto;
   position: relative;
@@ -926,7 +930,9 @@ color: #f3e7dc;
 .team-card3{
   width: 80%;
   height: 65%;
-  /* border: 1px solid  #050E3C; */
+  background-color:#9b9bdb;
+  border: 1px solid  #050E3C;
+  background-image: url(../imges/task\ 9.888888.jpg);
   background-size: cover;
   margin: 25px auto;
   position: relative;
